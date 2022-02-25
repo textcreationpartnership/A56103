@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestants triumph, or, A particular description and prospect of London-derry in its situation, building, fortification, and the defence it has made against the French and Irish papists ... : together with an old Irish prophesie, that relates to the subduing that nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56103</idno>
+            <idno type="STC">Wing P3853A</idno>
+            <idno type="STC">ESTC R7030</idno>
+            <idno type="EEBO-CITATION">12088409</idno>
+            <idno type="OCLC">ocm 12088409</idno>
+            <idno type="VID">53801</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestants triumph, or, A particular description and prospect of London-derry in its situation, building, fortification, and the defence it has made against the French and Irish papists ... : together with an old Irish prophesie, that relates to the subduing that nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>In three parallel columns.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1688-1689.</term>
+               <term>Londonderry (Northern Ireland) --  Defense measures --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="description_of_Londonderry">
+            <pb facs="tcp:53801:1"/>
+            <head>The <hi>Proteſtants</hi> Triumph: <hi>OR,</hi> A particular Deſcription and Proſpect of LONDON-DERRY, In its Scituation, Building, Fortification, and the Defence it has made againſt the <hi>French</hi> and <hi>Iriſh</hi> Papiſts: With the manner of the Sieges, Sallies, Encounters, Succeſs and Victories of the <hi>Proteſtants:</hi> and what ever elſe is Remarkable in that Loyal and Faithful Town.</head>
+            <head type="sub">Together with an Old <hi>Iriſh Propheſie,</hi> that relates to the Subduing that Nation.</head>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>Licenſed according to Order.</p>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>view of Londonderry (Derry)</figDesc>
+               <head>A Deſcription of the Portraiture, for the better Satisfaction of the Peruſer.</head>
+               <p>
+                  <list>
+                     <item>(A) Ferry-Key-Gate.</item>
+                     <item>(B) Ship-Key-Gate.</item>
+                     <item>(C) Market-Houſe.</item>
+                     <item>(D) The Church.</item>
+                     <item>(E) Biſhop-Gate.</item>
+                     <item>(F) Butchers-Gate.</item>
+                     <item>(G) The Ferry.</item>
+                     <item>(H) Boggs.</item>
+                     <item>(I) The going to the Harbor-Mouth, or Green Caſtle.</item>
+                     <item>(K) The Biſhops Houſe.</item>
+                     <item>(L) The River, or Lough.</item>
+                  </list>
+               </p>
+            </figure>
+            <p>THE Kingdom of <hi>Ireland</hi> was Subdued by the <hi>Engliſh</hi> in the Reign of King <hi>Henry</hi> the II. and although ſince that time ſundry Inſurrections and Rebellions have been raiſed to wreſt it from us, yet this Crown has held it out with ſo hard a hand, that the Attempts have been ſucceſsleſs, and ma<g ref="char:EOLhyphen"/>ny times fatal to the Natives. <hi>Dublin</hi> is indeed accounted the chief City of this Kingdom, becauſe frequently the Reſidence of the Deputies and Lord Lieutenants, and the Prime Seat of Juſtice; yet for Loyalty at all times to the <hi>Engliſh</hi> ſince the building thereof, <hi>London-Derry</hi> has claimed the Primacy. And having made this Deſcription in General, we come now to par<g ref="char:EOLhyphen"/>ticulars of more moment,</p>
+            <p>The Town of <hi>London-Derry,</hi> built by the Companies of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> for the ſecuring their intereſts intereſts in that Kingdom, when trade encreaſed, and ſuch as would purchaſe were alloted conſidera<g ref="char:EOLhyphen"/>ble quantities of Land, in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> is Scituate very advantageouſly about three miles from the Sea, incompaſ<g ref="char:EOLhyphen"/>ſed on three ſides by a Lough or River, of conſiderable depth and breadth, emptying it ſelf into the Ocean, and is Navigable for Ships of Burthen, as far as the Town, and for Boats of Bur<g ref="char:EOLhyphen"/>then and other Veſſels, in all parts; there being a Ferry and divers Boats plying on it, for the Tranſportation of Paſſengers. The Town is Scituate in the County of <hi>London-Derry,</hi> in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> incompaſſed with a ſtrong Wall and Flan<g ref="char:EOLhyphen"/>kers, on and in which, are placed advantageouſly to annoy the approach of the Enemy, ſundry pieces of Cannon: It lies up a little riſing Hill from the Land, and has a Bogg on one part to debar the approach of Aſſailants: and at <hi>Killmore,</hi> about three miles from it, is a Block-Houſe or Caſtle, to hinder any ap<g ref="char:EOLhyphen"/>proach or ſurprize: The Hills riſe pleaſantly at ſome diſtance, and the Valleys and Plaines between make it a delightful place: It is Governed by a Mayor and Alderman, as Towns Incorpo<g ref="char:EOLhyphen"/>rated in <hi>England;</hi> and the Judges Itenerent for the province, fit there upon Life and Death and <hi>Niſi-prius.</hi> The Fiſhing trade and many other profits, belong to the Companys of <hi>London;</hi> and there is a Cuſtom-Houſe &amp; Factory ſtore kept upon the Key</p>
+            <p>The Gates of <hi>London-Derry</hi> are four, <hi>viz. Ferry-Gate, Ship-Key-Gate, Biſhops-Gate, &amp; Butchers-Gate.</hi> In the middle of the Town ſtands the Market-Houſe, where the Markets are uſually kept, and there are four pieces of Cannon, with the Arms and Names <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> four Companys of <hi>London</hi> on them, two of which appertain to the <hi>Felt-makers</hi> and <hi>Cloathiers;</hi> and theſe Guns are bent on the four Gates, there being a proſpect of the four principal Streets when you ſtand by the Market-Houſe, they anſwering the Name of the Gate: The Market-Houſe is a very Famous Building, and in it the Magiſtrates Conſult their waighty Af<g ref="char:EOLhyphen"/>fairs, though of late it is fallen ſomewhat to decay. At the Weſt-end of the Town, a little on this ſide <hi>Biſhops-Gate,</hi> ſtands the Church, very pleaſantly amongſt a Grove of Trees, and by it the Biſhops pallace; there is yet remaining the ruins of ano<g ref="char:EOLhyphen"/>ther Church, which time or accident has rendred uſeleſs: The Building is according to the old <hi>Engliſh</hi> faſhion, partly Loam or paper Buildings, and partly Brick; the Inhabitants are gene<g ref="char:EOLhyphen"/>rally very Sagacious in their way of Trade or Buſineſs. The place lyes over-againſt the Coaſt of <hi>Scotland,</hi> and has for its Ac<g ref="char:EOLhyphen"/>comodation, a fair Haven at a little diſtance; and although it is not accounted above a Mile in Circumference; yet for Cou<g ref="char:EOLhyphen"/>rage of its Inhabitants, in withſtanding the whole power of the <hi>French</hi> and <hi>Iriſh Papiſts</hi> in that Kingdom this preſent Year 1689. it is the more Remarkable. Wherefore having deſcribed the place anſwerable to the portaiture, we now proceed to give an Account of the Noble and Valiant Reſiſtance <hi>London-Derry</hi> has made inorder to the ſecuring the <hi>Engliſh</hi> Intereſt in that <hi>kingdom</hi>
+            </p>
+            <p>The Earl of <hi>Tyrconnel</hi> upon King <hi>James</hi>'s leaving <hi>England,</hi> as Deputy of <hi>Ireland,</hi> raiſed all the Popiſh Forces that lay in his power, diſarmed ſuch Proteſtants as conveniently he could, ſeizing likewiſe their Horſes, and plundering and burning many of their Houſes, which obliged ſuch as could get toge<g ref="char:EOLhyphen"/>ther to ſtand to their Arms, in expectation of Aſſiſtance from <hi>England,</hi> and in many Encounters they worſted the Papiſts, giving them ſome conſiderable overthrows, but the <hi>French</hi> King ſending ſupplies of Officers, Souldiers, and Ammunition, and the arrival of the late King <hi>James,</hi> they found them<g ref="char:EOLhyphen"/>ſelves unable to keep the Field, an therefore thought it ex<g ref="char:EOLhyphen"/>pedient to fortify themſelves in Towns, and accordingly in <hi>Colerain</hi> they made a vigorous reſiſtance, killing a conſidera<g ref="char:EOLhyphen"/>ble number of the Enemy, but not being timely ſuccoured they were obliged, after all that could be expected from true Valour and Conduct, to ſurrender upon ſuch terms as the could get: And now <hi>London-Derry</hi> being the only place of note that held out for the Proteſtants, the popiſh Army ſent all their Forces to oblige its ſurrender; and though it is ſhrewdly ſuſpected they corrupted ſome of the chief Comman<g ref="char:EOLhyphen"/>ders, who ſuffered Collonel <hi>Shelton</hi> to ſwim the River with his Horſe interupted, and march within Musket-ſhot of the Gates, and afterward diſerted the Town, and notwithſtanding the diſappointment of Collonel <hi>Richards</hi> and Collonel <hi>Coningham</hi>'s Regiments, ſent by the King of <hi>England</hi> to the Relief of this place, Mr. <hi>Walker</hi> Miniſter of the Town took upon him the Command, and by his courage and example, put new Life and Vigour into the Citizens and Souldiers, ſo that the <hi>Iriſh</hi> Army, after ſerveral of their parties had been beaten off, coming b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore the place, on the 19th. of <hi>April,</hi> poſſeſſed themſelves of the Caſtle of <hi>Kulmore</hi> on the 25th, in which there were three pieces of Cannon, the Garriſon not being longer able to maintain it for want of Water, however they capitulated to march out with their Swords, but they were notwithſtanding plundered by the <hi>Iriſh</hi> Souldiers, whereupon they advance<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nearer the Town and raiſed ſome Batteries; but notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>Proteſtants,</hi> there being between 8 and 9000 in Garriſon fired very briskly upon them, uſing their utmoſt en<g ref="char:EOLhyphen"/>deavour to hinder their approaches: And although the ene<g ref="char:EOLhyphen"/>my planted ſome Mortars, and caſt Bombs into the Town, yet through the caution and warineſs of the Beſieged they did little or no Execution; yet upon a Council, unanimouſly reſol<g ref="char:EOLhyphen"/>ves that it was convenient to make vigorous Sally, and taking the opportunity when the Enemy appeared moſt Supine, they Sallyed with a ſtrong party, ſurprizing and cutting off a great number of the <hi>Iriſh</hi> and <hi>French,</hi> putting them in all places to the Rout, purſuing them, and taking much Spoil, eſpecially in Cattel, which cauſed a great conſternation amongſt the enemy, and puts which cauſed a great conſternation amongſt the enemy, and puts me in mind of an old <hi>Iriſh</hi> propheſie, which ſays, <hi>That <hi>pen<g ref="char:EOLhyphen"/>nybourn-Mill</hi> ſhall be watered with the blood of the Natives, when there ſhall be a certain Man living that has two Heels on one Foot, and after that the <hi>Iriſh</hi> Nation ſhall be no more.</hi> This Mill is about a Mile from <hi>Derry,</hi> and 'tis ſaid there is ſuch a ſort of Man now living in the ſame. And in the Action the <hi>French</hi> Lieutenant-General <hi>Maman,</hi> Major <hi>Taff,</hi> Captain <hi>Fitz-gerald,</hi> Captain <hi>Bourk,</hi> and ſeveral other Officers were killed, with a great number of common Soldiers; and the beſieged encouraged by this ſucceſs made a generous Reſolution amongſt themſelves to hold out to the laſt extremity, eſpecially upon notice that the Beſiegers wanted Amunition, and that a great number of their Horſes dye for want of Forrage: And Mr. <hi>Walker</hi> deſiſted not from confirming them by walking the rounds, firing the <hi>Cannon</hi> with his own hand, and animating thoſe that any ways fainted with expectation of ſpeedy ſuccour from <hi>England,</hi> tel<g ref="char:EOLhyphen"/>ling them they could expect nothing but Miſery and Slavery under the oppreſſion of a <hi>French</hi> power: So that though the Town of <hi>London-Derry,</hi> the only Refuge of the <hi>Proteſtants</hi> in <hi>Ireland,</hi> is not large, nor extraordinary ſtrenghthened by Art, it has hitherto foiled and baffled the popiſh Army and com<g ref="char:EOLhyphen"/>pelled them to taſte of proteſtant valour: The <hi>Cannon</hi> con<g ref="char:EOLhyphen"/>tinuing to play furiouſly, and all endeavours uſed to weary out the enemy, or raiſe the Seige.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the <hi>Golden-Ball</hi> in <hi>Pye-Corner.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
